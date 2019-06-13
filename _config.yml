@@ -47,14 +47,8 @@ gems: [jekyll-paginate]
 markdown: kramdown
 highlighter: rouge
 kramdown:
-  syntax_highlighter: rouge 
-  syntax_highlighter_opts:
-    default_lang: lua
-    css_class: 'highlight'
-    line_numbers: true
-    start_line: 1
-    inline_theme: colorful
-    wrap: true
+  input: GFM                            # use Github Flavored Markdown !important
+
 
 
 # 评论系统
