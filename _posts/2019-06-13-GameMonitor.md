@@ -15,7 +15,7 @@ tags:
 给某个模块（场景）加入内存泄露检测，然后打开该模块，再关闭该模块，然后按键盘M键，观看日志输出， 如果按键没反应，那么需要在响应按键的地方加上代码，其实就是触发GameMonitor
 
 ## GameMonitor代码
-```
+``` lua
 --[[--内存泄露检测工具
 @module MemoryMonitor
 @author myc
@@ -119,7 +119,6 @@ end
 return MemoryMonitor;
 
 ```
-{: .language-lua}
 
 按键代码
 ```lua
