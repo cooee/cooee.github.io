@@ -139,6 +139,8 @@ return MemoryMonitor;
 
 如果按键之后没输出异常，那么说明该模块没有内存，如果存在泄漏则输出如下：
 
-![](img/gameMonitor.png)
+<figure>
+<a><img src="{{site.url}}/img/gameMonitor.png"></a>
+</figure>
 
 最常见的内存泄漏就是注册了事件监听没有反注册，所以遇到此类问题先检查是否反注册了事件，其余的就是回调函数，协程内部等，需要开发人员自行定位，但是大体上都是此类问题了
