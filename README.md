@@ -229,6 +229,11 @@ ba_track_id: 4cc1f2d8f3067386cc5cdb626a202900
 ga_track_id: 'UA-49627206-1'            # 你用Google账号去注册一个就会给你一个这样的id
 ga_domain: huangxuan.me			# 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto。
 ```
+### Jekyll博客代码块语法高亮设置
+
+使用jekyll搭建的博客，发现编写代码的时候无法实现语法高亮，现通过rouge模块生成对应语法高亮CSS来实现代码快语法高亮
+
+参考文档：[Jekyll博客代码块语法高亮设置](https://wangxin1248.github.io/jekyll/2018/03/rouge.html)
 
 ### Customization
 
