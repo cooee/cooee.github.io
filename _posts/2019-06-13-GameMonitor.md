@@ -3,7 +3,7 @@ layout:     post
 title:      Lua内存泄露检测
 subtitle:   弱引用
 date:       2019-6-13
-author:     BY
+author:     myc
 header-img: img/post-bg-hacker.jpg
 catalog: true
 tags:
