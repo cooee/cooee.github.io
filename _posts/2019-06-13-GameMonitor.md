@@ -16,7 +16,7 @@ tags:
 
 ## GameMonitor代码
 ``` lua
---[[--内存泄露检测工具\n
+--[[--内存泄露检测工具
 @module MemoryMonitor
 @author myc
 
