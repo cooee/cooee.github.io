@@ -4,7 +4,7 @@ title:      Lua内存泄露检测
 subtitle:   弱引用
 date:       2019-6-13
 author:     BY
-header-img: img/post-bg-ios9-web.jpg
+header-img: img/post-bg-hacker.jpg
 catalog: true
 tags:
     - Lua
