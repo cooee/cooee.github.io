@@ -56,15 +56,15 @@ highlighter: rouge
 # Disqus（https://disqus.com/）
 # disqus_username: qiubaiying
 
-# Gitalk
-# gitalk:
-#   enable: true    #是否开启Gitalk评论
-#   clientID: f2c84e7629bb1446c1a4                            #生成的clientID
-#   clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
-#   repo: qiubaiying.github.io    #仓库名称
-#   owner: qiubaiying    #github用户名
-#   admin: qiubaiying
-#   distractionFreeMode: true #是否启用类似FB的阴影遮罩
+#Gitalk
+gitalk:
+  enable: true    #是否开启Gitalk评论
+  clientID: 267fb8efbb1d0244e095                            #生成的clientID
+  clientSecret: c769dd0cc63a535b08920f1ef342ac51a58c24d83    #生成的clientSecret
+  repo: qiubaiying.github.io    #仓库名称
+  owner: cooee    #github用户名
+  admin: myc
+  distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
 # 统计
