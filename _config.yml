@@ -58,7 +58,7 @@ highlighter: rouge
 
 #Gitalk
 gitalk:
-  enable: true    #是否开启Gitalk评论
+  enable: false    #是否开启Gitalk评论
   clientID: 267fb8efbb1d0244e095                            #生成的clientID
   clientSecret: c769dd0cc63a535b08920f1ef342ac51a58c24d83    #生成的clientSecret
   repo: cooee.github.io    #仓库名称
