@@ -63,7 +63,7 @@ gitalk:
   clientSecret: c769dd0cc63a535b08920f1ef342ac51a58c24d83    #生成的clientSecret
   repo: qiubaiying.github.io    #仓库名称
   owner: cooee    #github用户名
-  admin: myc
+  admin: cooee
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
