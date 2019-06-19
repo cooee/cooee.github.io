@@ -265,10 +265,10 @@ pre code {
 .post-container ol {
   margin-bottom: 40px;
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1080px) {
   .post-container ul,
   .post-container ol {
-    padding-left: 30px;
+    padding-left: 10px;
   }
 }
 @media screen and (max-width: 500px) {
@@ -297,7 +297,7 @@ pre code {
   margin-top: 20px;
 }
 .post-container .pager li {
-  width: 48%;
+  width: 60%;
 }
 .post-container .pager li.next {
   float: right;
