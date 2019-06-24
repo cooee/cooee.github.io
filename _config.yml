@@ -64,7 +64,7 @@ gitalk:
   repo: cooee.github.io    #仓库名称
   owner: cooee    #github用户名
   admin: cooee
-  distractionFreeMode: true #是否启用类似FB的阴影遮罩
+  distractionFreeMode: false #是否启用类似FB的阴影遮罩
 
 
 # 统计
