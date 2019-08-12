@@ -18,7 +18,7 @@ tags:
 ```lua
 
 Code    Description
-011    A syntax error.
+011     A syntax error.
 021	An invalid inline option.
 022	An unpaired inline push directive.
 023	An unpaired inline pop directive.
